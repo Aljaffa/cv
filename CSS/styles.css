@@ -1,0 +1,158 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', cursive;
+  color: #212F3D;
+}
+
+.butn {
+  background: #7e8b94;
+  background-image: -webkit-linear-gradient(top, #dfddc7, #dfddc7);
+  background-image: -moz-linear-gradient(top, #dfddc7, #dfddc7);
+  background-image: -ms-linear-gradient(top, #dfddc7, #dfddc7);
+  background-image: -o-linear-gradient(top, #dfddc7, #dfddc7);
+  background-image: linear-gradient(to bottom, #dfddc7, #dfddc7);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Delius Unicase', cursive;
+
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #687278;
+  background-image: -webkit-linear-gradient(top, #7F8C8D, #7F8C8D);
+  background-image: -moz-linear-gradient(top, #7F8C8D, #7F8C8D);
+  background-image: -ms-linear-gradient(top, #7F8C8D, #7F8C8D);
+  background-image: -o-linear-gradient(top, #7F8C8D, #7F8C8D);
+  background-image: linear-gradient(to bottom, #7F8C8D, #7F8C8D);
+  text-decoration: none;
+  color: #dfddc7;
+}
+
+hr{
+  border: dotted #D5D8DC 6px;
+  width: 10%;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+p{
+  line-height: 2;
+    font-weight: bolder;
+
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  color: #7F8C8D;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+}
+
+h2{
+  font-size: 2rem;
+    color: #7F8C8D;
+  font-family: 'Delius Unicase', cursive;
+  margin-bottom: 0;
+  padding: 10px;
+}
+h3{
+  font-family: 'Delius Unicase', cursive;
+  color:#5c7658;
+}
+
+div{
+  background-color: #f1f1f1;
+}
+
+.msg{
+  width:30%;
+  margin: 30px auto 60px;
+
+}
+
+.subhead{
+  text-decoration: underline;
+  color:#5c7658;
+
+}
+
+.TopDiv {
+  background-color: #dfddc7;
+padding-top: 50px;
+
+
+}
+.middleDiv {
+padding: 100px 0px;
+
+}
+.bottomDiv{
+  background-color: #dfddc7;
+  padding: 50px 0 20px;
+
+}
+
+.MePix_0{
+  border-radius: 100%;
+  width:10%;
+}
+
+.MePix_1 {
+width: 25%;
+float: left;
+margin-right: 30px;
+
+}
+
+.MePix_2 {
+width: 25%;
+float: right;
+margin-left: 30px;
+
+}
+
+a {
+    color: #7F8C8D;
+    line-height: 2;
+    font-family: 'Delius Unicase', cursive;
+    margin:10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+  color: #2C3E50 ;
+}
+
+.desc{
+
+}
+
+.copyright{
+  color: #566573 ;
+  font-size:0.75rem;
+  padding: 20px 0px;
+
+}
+
+.top-cloud{
+position: relative;
+left:400px;
+}
+
+.bottom-cloud{
+position: absolute;
+left:350px;
+}
+
+.skill-row{
+
+  width: 50%;
+  margin: 150px auto ;
+  text-align: left;
+}
